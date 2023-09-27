@@ -1,5 +1,5 @@
 #ignore the 'test_folder'
-test_folder/
+ignore_folder/
 
 #ignore log files
 *.log
